@@ -89,7 +89,7 @@ Orientado a home lab y servicios de red sobre Windows 10 Pro. - Proxímamente
 ## Instalación
 
 ### 1. Descarga la ISO
-Descarga la ISO de tu versión desde [codeOS.tudominio.com](https://codeOS.tudominio.com)
+Descarga la ISO de tu versión desde [codeOS](https://codeos.codeizanami.es)
 
 ### 2. Grábala en un USB
 Usa [Rufus](https://rufus.ie) o [Balena Etcher](https://etcher.balena.io) para grabar la ISO en un USB de mínimo 8GB.
