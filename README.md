@@ -97,8 +97,11 @@ Usa [Rufus](https://rufus.ie) o [Balena Etcher](https://etcher.balena.io) para g
 ### 3. Instala Windows
 Arranca desde el USB y sigue el instalador normal de Windows. No necesitas clave de producto durante la instalación.
 
-### 4. Ejecuta el script post-instalación
-Una vez en el escritorio descarga el script de tu versión y ejecútalo como administrador:
+### 4. Ejecuta el .exe post-instalación
+Este se intentará inciar cuando se inice sesión por primera vez, en caso de fallar, seguir los siguientes pasos:
+
+Una vez en el escritorio descarga el exe de tu versión desde la pagina web [codeOS](https://codeos.codeizanami.es) y ejecútalo como administrador, espera a que termine y
+tu equipo se reiniciará.
 
 ```
 clic derecho → Ejecutar como administrador
