@@ -9,7 +9,7 @@
   ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
 ```
 
-**Windows 10 Pro radicalmente optimizado.**
+**Windows 10 Pro optimizado.**
 
 [![Version](https://img.shields.io/badge/versión-1.0_WIP-6366f1?style=flat-square&labelColor=0d0d0f)](https://codeOS.codeizanami.es)
 [![Base](https://img.shields.io/badge/base-Windows_10_Pro-6366f1?style=flat-square&labelColor=0d0d0f)](https://codeOS.codeizanami.es)
