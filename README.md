@@ -56,7 +56,7 @@ Cada versión parte de la misma base limpia y añade únicamente lo necesario pa
 |:---|:---|:---:|
 | **codeOS Gaming** | Máximo rendimiento para juegos | ✅ Disponible |
 | **codeOS Estudio** | Limpio y estable para trabajar y estudiar | 🔜 Próximamente |
-| **codeOS Server** | Servicios de servidor sobre Windows 10 Pro | 🔜 Próximamente |
+| **codeOS Max** | Máximo rendimiento, LTSC | 🔜 Próximamente |
 
 ---
 
@@ -112,9 +112,9 @@ Independientemente de la versión, lo siguiente no existe en ninguna ISO de code
 
 ---
 
-## codeOS Server *(próximamente)*
+## codeOS Max *(próximamente)*
 
-> Orientado a home lab y servicios de red sobre Windows 10 Pro.
+> Orientado al máximo rendimiento, ejemplo servidores de juegos, web, etc.
 
 **Incluirá:**
 
