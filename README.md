@@ -42,7 +42,7 @@ Cada versión parte de la misma base limpia y añade únicamente lo necesario pa
        ▼  NTLite — eliminación de componentes + tweaks en imagen
   codeOS Gaming  ──▶  Steam · Epic · Roblox · latencia mínima
   codeOS Estudio ──▶  trabajo · diseño · universidad   [próximamente]
-  codeOS Server  ──▶  IIS · Hyper-V · RDP · SMB        [próximamente]
+  codeOS Max  ──▶  IIS · Hyper-V · RDP · SMB        [próximamente]
        │
        ▼  post-instalación
   codeUtils.exe  ──▶  tweaks finales · apps · Windows Update
